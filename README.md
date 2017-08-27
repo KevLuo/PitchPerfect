@@ -11,8 +11,5 @@ This new view contains six different voice filters, ranging from slow-mo to Dart
 with the new filter overlayed.
 
 How to test:
-Simple!  Just run the project in Xcode on your computer.
-
-Contributors:
-Kevin Luo
+Run the project in Xcode on your computer.
 
